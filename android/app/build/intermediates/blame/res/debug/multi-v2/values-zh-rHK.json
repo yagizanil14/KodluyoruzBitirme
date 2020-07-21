@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mertyildirim/Documents/GitHub/KodluyoruzBitirme/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "C:\\Users\\Sony\\Desktop\\KodluyoruzBitirme\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "/Users/mertyildirim/.gradle/caches/transforms-2/files-2.1/8bcd2b51e648ecfc881919cc90618b10/jetified-play-services-basement-17.0.0/res/values-zh-rHK/values.xml",
+                    "source": "C:\\Users\\Sony\\.gradle\\caches\\transforms-2\\files-2.1\\39c872e98158fd0760be996890593374\\jetified-play-services-basement-17.0.0\\res\\values-zh-rHK\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mertyildirim/.gradle/caches/transforms-2/files-2.1/4c112ea1673c74046d79ce05bc8542bd/core-1.1.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Sony\\.gradle\\caches\\transforms-2\\files-2.1\\4c112ea1673c74046d79ce05bc8542bd\\core-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mertyildirim/.gradle/caches/transforms-2/files-2.1/8e9589e60acdb8f233f128d168274b2b/appcompat-1.1.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "C:\\Users\\Sony\\.gradle\\caches\\transforms-2\\files-2.1\\8e9589e60acdb8f233f128d168274b2b\\appcompat-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mertyildirim/.gradle/caches/transforms-2/files-2.1/a9db7ca102a61e71756cc841696a0623/play-services-base-17.1.0/res/values-zh-rHK/values.xml",
+                    "source": "C:\\Users\\Sony\\.gradle\\caches\\transforms-2\\files-2.1\\a9db7ca102a61e71756cc841696a0623\\play-services-base-17.1.0\\res\\values-zh-rHK\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

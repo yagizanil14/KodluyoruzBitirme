@@ -4,8 +4,6 @@ import { SafeAreaView, Text, Button, TouchableOpacity } from "react-native";
 import auth from '@react-native-firebase/auth';
 import AsyncStorage from '@react-native-community/async-storage';
 
-import { LibraryImagePicker } from "../AddProducts/LibraryImagePicker";
-
 const Main = props => {
      const signOut = () => {
         auth().signOut()
@@ -20,7 +18,6 @@ const Main = props => {
             <Text>Main Page</Text>
             <TouchableOpacity onPress={goToAddProducts}>
                 <Text>Hızlı Ürün Ekle</Text>
-                <LibraryImagePicker/>
             </TouchableOpacity>
             <Button
             title='Signout'
