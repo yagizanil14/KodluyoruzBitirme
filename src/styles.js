@@ -47,8 +47,17 @@ const styles={
             height: 35, 
             width: 35, 
             resizeMode: 'contain', 
-            
+            marginRight:10
           },
+          imageBackground: {
+            width:Dimensions.get("window").width * 1,
+             height: Dimensions.get("window").height * 1
+          },
+          okButtonContainer: {
+            position: 'absolute',
+            bottom: 20,
+            width: Dimensions.get("window").width * 1
+          }
     })
 }
 

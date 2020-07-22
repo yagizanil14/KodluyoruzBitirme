@@ -16,7 +16,7 @@ const Main = props => {
     return(
         <SafeAreaView>
             <Text>Main Page</Text>
-            <TouchableOpacity onPress={goToAddProducts}>
+            <TouchableOpacity style={{margin:50}} onPress={goToAddProducts}>
                 <Text>Hızlı Ürün Ekle</Text>
             </TouchableOpacity>
             <Button
