@@ -1,0 +1,6 @@
+module Pods_KodluyoruzBitirme_KodluyoruzBitirmeTests {
+  umbrella header "Pods-KodluyoruzBitirme-KodluyoruzBitirmeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
