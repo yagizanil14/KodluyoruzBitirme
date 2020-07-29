@@ -1,6 +1,0 @@
-module Pods_KodluyoruzBitirme {
-  umbrella header "Pods-KodluyoruzBitirme-umbrella.h"
-
-  export *
-  module * { export * }
-}
